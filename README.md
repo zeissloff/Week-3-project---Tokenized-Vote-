@@ -33,6 +33,6 @@ npx ts-node --files ./scripts/GiveTokens.ts 0x0aCA03DA72A643f5403d07d7657C17B6E3
 ![2024-08-31 01 07 10](https://github.com/user-attachments/assets/c35538be-0b17-4a49-8206-12d1716a00b7)
 
 + TokenizedBallot.ts
-++ Command used 
+... Command used 
 ```bash
 npx ts-node --files ./scripts/DelegateVote.ts "Proposal1" "Proposal2" "Proposal3" 0x5fa2b9098f5dce19c6c19cc27e4feef22df30797
