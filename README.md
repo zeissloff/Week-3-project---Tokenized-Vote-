@@ -3,8 +3,8 @@
 ### Instructions :
 
 1. Write smart contract
-2. . Deploy contract
-3. . Deploy scripts:
+2. Deploy contract
+3. Deploy scripts:
     + giveVotingTokens 
     + delegateVotingPower 
     + castingVote 
@@ -17,7 +17,7 @@ Install Yarn: Ensure that Yarn is installed on your system.
 
 Environment Configuration: Create a .env file and add your Alchemy API key and Private key.
 
-Compilation: Be able to run npx hardhat compile to compile the MyToken.sol contract and the TestMyToken.ts script.
+Compilation: Be able to "run npx hardhat compile" to compile the MyToken.sol contract and the TestMyToken.ts script.
 
 Network Configuration: Use the Sepolia Testnet for deployment and testing. :
 
