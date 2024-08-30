@@ -1,6 +1,6 @@
 # Week-3-project---Tokenized-Vote-
 
-### Week 3 Project Plan:
+### Instructions :
 
 1. Write smart contract
 2. . Deploy contract
@@ -10,6 +10,16 @@
     + castingVote 
     + checkingVotePower
     + queryingResults 
+
+### Prerequisites for the Project:
+
+Install Yarn: Ensure that Yarn is installed on your system.
+
+Environment Configuration: Create a .env file and add your Alchemy API key and Private key.
+
+Compilation: Be able to run npx hardhat compile to compile the MyToken.sol contract and the TestMyToken.ts script.
+
+Network Configuration: Use the Sepolia Testnet for deployment and testing. :
 
 # For the deployment contract : 
 + **scripts/GiveTokens.ts** 
