@@ -3,9 +3,8 @@
 ### Week 3 Project Plan:
 
 1. Write smart contract
-2. Write test cases: 
-3. Deploy contract
-4. Deploy scripts:
+2. . Deploy contract
+3. . Deploy scripts:
     + giveVotingTokens 
     + delegateVotingPower 
     + castingVote 
