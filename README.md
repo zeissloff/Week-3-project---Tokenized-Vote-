@@ -6,8 +6,11 @@
 2. Write test cases: 
 3. Deploy contract
 4. Deploy scripts:
-    + giveVotingTokens: 
-    + delegateVotingPower: 
-    + castingVote: 
-    + checkingVotePower: 
+    + giveVotingTokens 
+    + delegateVotingPower 
+    + castingVote 
+    + checkingVotePower
     + queryingResults 
+
+# For the deployment contract : 
+
