@@ -36,3 +36,27 @@ npx ts-node --files ./scripts/GiveTokens.ts 0x0aCA03DA72A643f5403d07d7657C17B6E3
 
 ```bash
 npx ts-node --files ./scripts/DelegateVote.ts "Proposal1" "Proposal2" "Proposal3" 0x5fa2b9098f5dce19c6c19cc27e4feef22df30797
+```
++ The contract address : 0x5Fa2B9098f5dCe19C6c19cC27e4feEF22DF30797
+https://sepolia.etherscan.io/address/0x5fa2b9098f5dce19c6c19cc27e4feef22df30797
+
+# Deployment of scripts : 
+
++ GiveVotingTokens 
+```bash
+
+```
+
++ DelegateVotingPower 
+```bash
+
+```
+
++CastingVote 
+```bash
+
+```
++CheckingVotePower
+```bash
+
+```
