@@ -21,7 +21,7 @@ Compilation: Be able to "run npx hardhat compile" to compile the MyToken.sol con
 
 Network Configuration: Use the Sepolia Testnet for deployment and testing. :
 
-# Deployment of the contract : 
+# Deployment of the contract and minting token : 
 + GiveTokens.ts 
 + Command used with the following accounts :
   + Acc1 = 0x0aCA03DA72A643f5403d07d7657C17B6E3ED575D
