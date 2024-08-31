@@ -4,7 +4,7 @@
 
 1. Write smart contract
 2. Deploy contract
-3. Deploy scripts:
+3. Run scripts:
     + giveVotingTokens 
     + delegateVotingPower 
     + castingVote 
