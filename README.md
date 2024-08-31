@@ -13,11 +13,11 @@
 
 ### Prerequisites for the Project:
 
-Environment Configuration: Create a .env file and add your Alchemy API key and Private key.
+Environment Configuration: create a .env file and add your Alchemy API key and Private key.
 
-Compilation: Be able to "run npx hardhat compile" to compile the MyToken.sol contract and the TestMyToken.ts script.
+Compilation: be able to "run npx hardhat compile" to compile the MyToken.sol contract and the TestMyToken.ts script.
 
-Network Configuration: Use the Sepolia Testnet for deployment and testing. 
+Network configuration: Use the Sepolia Testnet for deployment and testing. 
 
 # Deployment of the contract and minting token : 
 + GiveTokens.ts 
