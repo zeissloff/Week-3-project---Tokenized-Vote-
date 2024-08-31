@@ -40,21 +40,21 @@ https://sepolia.etherscan.io/address/0x5fa2b9098f5dce19c6c19cc27e4feef22df30797
 
 # Run scripts : 
 
-+ GiveVotingTokens 
++ GiveVotingTokens - ./scripts/GiveToken
 ```bash
 
 ```
 
-+ DelegateVotingPower 
++ DelegateVotingPower - ./scripts/DelegateVote
 ```bash
 
 ```
 
-+ CastingVote 
++ CastingVote - ./scripts/CastingVote
 ```bash
 
 ```
-+ CheckingVotePower
++ CheckingVotePower - ./scripts/CheckVoting
 ```bash
 
 ```
