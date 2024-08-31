@@ -13,8 +13,6 @@
 
 ### Prerequisites for the Project:
 
-Install Yarn: Ensure that Yarn is installed on your system.
-
 Environment Configuration: Create a .env file and add your Alchemy API key and Private key.
 
 Compilation: Be able to "run npx hardhat compile" to compile the MyToken.sol contract and the TestMyToken.ts script.
@@ -40,7 +38,7 @@ npx ts-node --files ./scripts/DelegateVote.ts "Proposal1" "Proposal2" "Proposal3
 + The contract address : 0x5Fa2B9098f5dCe19C6c19cC27e4feEF22DF30797
 https://sepolia.etherscan.io/address/0x5fa2b9098f5dce19c6c19cc27e4feef22df30797
 
-# Deployment of scripts : 
+# Run scripts : 
 
 + GiveVotingTokens 
 ```bash
@@ -52,11 +50,11 @@ https://sepolia.etherscan.io/address/0x5fa2b9098f5dce19c6c19cc27e4feef22df30797
 
 ```
 
-+CastingVote 
++ CastingVote 
 ```bash
 
 ```
-+CheckingVotePower
++ CheckingVotePower
 ```bash
 
 ```
