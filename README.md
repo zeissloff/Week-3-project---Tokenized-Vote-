@@ -48,7 +48,7 @@ npx ts-node --files ./scripts/DK_DeployMyERC20Token.ts <ACCT1_ADDRESS> <ACCT2_AD
 
 + DelegateVotingPower - ./scripts/DelegateVote
 ```bash
-
+npx ts-node --files ./scripts/DelegateVote.ts "Proposal1" "Proposal2" "Proposal3" 0x5fa2b9098f5dce19c6c19cc27e4feef22df30797
 ```
 
 + CastingVote - ./scripts/CastingVote
