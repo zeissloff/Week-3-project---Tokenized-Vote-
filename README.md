@@ -57,5 +57,5 @@ npx ts-node --files ./scripts/DelegateVote.ts "Proposal1" "Proposal2" "Proposal3
 ```
 + CheckingVotePower - ./scripts/CheckVoting
 ```bash
-
+npx ts-node --files ./scripts/checkVotingRights.ts
 ```
