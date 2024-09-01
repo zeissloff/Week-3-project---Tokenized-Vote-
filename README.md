@@ -50,12 +50,15 @@ npx ts-node --files ./scripts/DK_DeployMyERC20Token.ts <ACCT1_ADDRESS> <ACCT2_AD
 ```bash
 npx ts-node --files ./scripts/DelegateVote.ts "Proposal1" "Proposal2" "Proposal3" 0x798fe65fefb58e2da6b25e24423f86869360113d
 ```
+<img width="598" alt="Capture d’écran 2024-09-01 à 22 55 10" src="https://github.com/user-attachments/assets/9fe5ade0-5cf0-4070-880d-deec0dcafee5">
+
 
 + CastingVote - ./scripts/CastingVote
 ```bash
-
+npx ts-node --files ./scripts/CastingVote.ts 0x0aCA03DA72A643f5403d07d7657C17B6E3ED575D
 ```
 + CheckingVotePower - ./scripts/CheckVoting
 ```bash
 npx ts-node --files ./scripts/checkVotingRights.ts
 ```
+<img width="1429" alt="Capture d’écran 2024-09-01 à 22 23 31" src="https://github.com/user-attachments/assets/1e841a7e-f217-48a0-816f-d5c452a6f9d7">
