@@ -35,8 +35,8 @@ npx ts-node --files ./scripts/GiveTokens.ts 0x0aCA03DA72A643f5403d07d7657C17B6E3
 ```bash
 npx ts-node --files ./scripts/DelegateVote.ts "Proposal1" "Proposal2" "Proposal3" 0x5fa2b9098f5dce19c6c19cc27e4feef22df30797
 ```
-+ The contract address : 0x5Fa2B9098f5dCe19C6c19cC27e4feEF22DF30797
-https://sepolia.etherscan.io/address/0x5fa2b9098f5dce19c6c19cc27e4feef22df30797
++ The contract address : 0x798fe65fefb58e2da6b25e24423f86869360113d
+(https://sepolia.etherscan.io/address/0x798fe65fefb58e2da6b25e24423f86869360113d)
 
 # Run scripts : 
 
@@ -48,7 +48,7 @@ npx ts-node --files ./scripts/DK_DeployMyERC20Token.ts <ACCT1_ADDRESS> <ACCT2_AD
 
 + DelegateVotingPower - ./scripts/DelegateVote
 ```bash
-npx ts-node --files ./scripts/DelegateVote.ts "Proposal1" "Proposal2" "Proposal3" 0x5fa2b9098f5dce19c6c19cc27e4feef22df30797
+npx ts-node --files ./scripts/DelegateVote.ts "Proposal1" "Proposal2" "Proposal3" 0x798fe65fefb58e2da6b25e24423f86869360113d
 ```
 
 + CastingVote - ./scripts/CastingVote
